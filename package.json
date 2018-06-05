@@ -1,0 +1,19 @@
+{
+  "name": "lit-touch",
+  "version": "0.0.1",
+  "description": "Support for touch events for Lit-Elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirOfir/lit-touch.git"
+  },
+  "author": "Amir Ofir <oamir2013@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmirOfir/lit-touch/issues"
+  },
+  "homepage": "https://github.com/AmirOfir/lit-touch#readme"
+}
